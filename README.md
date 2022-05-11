@@ -1,6 +1,12 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example. 
+
+# Project View
+![name](https://github.com/wx9529/jungle-rails/blob/master/docs/jungle1.png?raw=true)
+![name](https://github.com/wx9529/jungle-rails/blob/master/docs/2.png?raw=true)
+![name](https://github.com/wx9529/jungle-rails/blob/master/docs/4.png?raw=true)
+![name](https://github.com/wx9529/jungle-rails/blob/master/docs/3.png?raw=true)
 
 ## Setup
 
